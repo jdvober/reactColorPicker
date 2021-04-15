@@ -1,4 +1,6 @@
-# ColorPickerPalette
+# React Color Picker
+
+Fork of github.com/gibbok/react-color-picker-palette
 
 ColorPickerPalette is a React reusable color picker palette written in TypeScript.
 
